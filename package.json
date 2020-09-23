@@ -1,0 +1,22 @@
+{
+  "name": "typescript-api",
+  "version": "1.0.0",
+  "description": "Typescript Node.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfocoding/surf-api.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Rodolfo Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodolfocoding/surf-api/issues"
+  },
+  "homepage": "https://github.com/rodolfocoding/surf-api#readme"
+}
